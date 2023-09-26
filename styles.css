@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+.nav{
+	display:flex;
+	text-decoration:none:
+	
+}
+div>img{
+	height:200px;
+	width:150px;
+	align-items:center:
+}
+	h1{
+		text-align:center;
+	}
